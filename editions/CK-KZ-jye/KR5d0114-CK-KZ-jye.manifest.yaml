@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5d0114/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5d0114/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 還源篇
+  date: '2015-08-29 02:05:17.744783'
+  source:
+    repository: kanripo
+    path: KR5d0114
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0114_000-CK-KZ-jye.yaml, hash: 'sha256:af03fe1ed34682a58574ab2a6136791686bd401ddd890ede155c68aab27d3b94'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0114_000-CK-KZ-jye.markers.yaml, hash: 'sha256:41024f234b4adf82b892233c014c5e10967670c7897cae6dcf7e2ba072705c6e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0114_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 0
+    - 1620
+  label: 五言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0114_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 1620
+    - 1912
+  label: 後序
+  type: section
+  level: 2
+hash: sha256:76305f1636cf2c0ad15b89dbf9cecffbc70946e189d088e4f10668787dc4cc3c

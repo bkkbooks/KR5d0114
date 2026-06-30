@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0114/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5d0114/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 還源篇
+  date: '2015-08-29 02:05:17.744783'
+  source:
+    repository: kanripo
+    path: KR5d0114
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0114_000-YP-C.yaml, hash: 'sha256:40ee4d3beaa7a591e114ddcfdfc67349ca1f5cd7de3281e19e9c08bceec58252'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0114_000-YP-C.markers.yaml, hash: 'sha256:230a65d320d0e6d3ee9cbba097bfa74e939bcf8258a517b221b7f91613c6020c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0114_YP-C_15kuiji-04-0001a
+    span:
+    - body
+    - 0
+    - 1918
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8e20176f77d9764aabbd407f0afad5a59b71bceb16ac8cdaa65dddcedc3585a4
